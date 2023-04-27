@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import About from './components/About'
 import Projects from './components/Projects';
 import Journey from './components/Journey';
@@ -10,6 +9,10 @@ import Docs from './components/Docs';
 function App() {
 
   const [isOpen, setIsOpen] = useState(false);
+
+  useEffect(() => {
+    document.title = 'Matt M Portfolio';
+  }, []);
 
   return (
     <div className="flex flex-col h-screen justify-between">

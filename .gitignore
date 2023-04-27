@@ -23,6 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /src/img
-/src/public/428210_eDiploma.pdf
-/src/public/Resume_2023_New.pdf
-/src/public/AWS Certified Cloud Practitioner certificate.pdf
+/public/428210_eDiploma.pdf
+/public/Resume_2023_New.pdf
+/public/AWS Certified Cloud Practitioner certificate.pdf
