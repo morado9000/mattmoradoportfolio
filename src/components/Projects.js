@@ -1,7 +1,7 @@
 
 export default function Projects() {
     return (
-        <section id="projects" className="min-h-screen py-20">
+        <section id="projects" className="md:min-h-screen py-20">
             <h2 className="text-6xl mb-32 font-bold text-center">
                       Projects
             </h2>

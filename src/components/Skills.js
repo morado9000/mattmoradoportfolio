@@ -1,7 +1,7 @@
 
 export default function Skills() {
     return (
-        <section id="skills" className="min-h-screen py-20">
+        <section id="skills" className="md:min-h-screen py-20">
             <h1 className="text-6xl mb-32 font-bold text-center">
                 Skills
             </h1>

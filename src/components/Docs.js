@@ -2,7 +2,7 @@ export default function Docs () {
 
     return (
         <>
-            <section id="docs" className="min-h-screen py-20">
+            <section id="docs" className="md:min-h-screen py-20">
                 <h1 className="text-6xl mb-32 font-bold text-center">
                     Documents
                 </h1>

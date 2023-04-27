@@ -2,7 +2,7 @@
 export default function Journey() {
     
     return (
-        <section id="journey" className="min-h-screen py-20">
+        <section id="journey" className="md:min-h-screen py-20">
             <h1 className="text-6xl mb-32 font-bold text-center">
                 My Journey
             </h1>
