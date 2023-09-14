@@ -12,7 +12,7 @@ export default function Projects() {
                   </h2>
                   <img src={require("../img/ScreenshotMovieTicket.png")} alt="" />
                   <button className="w-24 p-5 m-3 bg-black text-white">
-                        <a href="http://movie-loadb-a6hvckbv9y2s-e3ff4712d89c12eb.elb.us-west-1.amazonaws.com">Go</a>
+                        <a href="http://movie-loadb-101why77f6mwq-af8bee678c074501.elb.us-west-1.amazonaws.com">Go</a>
                     </button>
                   <p className="text-center text-gray-400">
                       A website that simulates a movie ticketing site that allows the user to buy tickets for a certain movie. And admin can login to add or delete entries using ui. Frontend built with React, Redux, and Tailwind. Backend is made with Spring Boot and Node.js, and I'm using PostgreSQL for a database. Hosted on AWS with ECS and EFS. To get current movie data, I'm using TheMovieDB API.
@@ -25,7 +25,7 @@ export default function Projects() {
                   </h2>
                   <img src={require("../img/ScreenshotVideoGame.png")} alt="" />
                   <button className="w-24 p-5 m-3 bg-black text-white">
-                        <a href="http://video-loadb-huv0givlghmd-4b0785f0aa315e53.elb.us-west-1.amazonaws.com">Go</a>
+                        <a href="http://video-loadb-14mu2ua08yv82-146d29c0ec1f0ebd.elb.us-west-1.amazonaws.com/">Go</a>
                     </button>
                   <p className="text-center text-gray-400">
                       Do you just want a simple search app to get the latest video games? This website does just that and only that. Frontend is made with React, Redux, and Tailwind. Using Node.js as a backend. Host on AWS with ECS. Using the IGDB API to get video game data.
