@@ -15,7 +15,7 @@ export default function Projects() {
                         <a href="https://morado9000.github.io/rubios-material/">Go</a>
                     </button>
                   <p className="text-center text-gray-400">
-                      A recreation of the Rubios hompage. My goal was to implement a UI design utilized in the real world. Built with MaterialUI in React to execute the page's reponsive design.
+                      A recreation of the Rubio's hompage. My goal was to implement a UI design utilized in the real world. Built with MaterialUI in React to execute the page's reponsive design.
                   </p>
                 </div>
 
