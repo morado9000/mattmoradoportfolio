@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mattmoradoportfolio/static/css/main.6c85466d.css",
-    "main.js": "/mattmoradoportfolio/static/js/main.02816f07.js",
+    "main.js": "/mattmoradoportfolio/static/js/main.1527b43e.js",
     "static/js/787.9ee7316e.chunk.js": "/mattmoradoportfolio/static/js/787.9ee7316e.chunk.js",
+    "static/media/rubiosmaterialscreen.png": "/mattmoradoportfolio/static/media/rubiosmaterialscreen.ff99b4d7d8a949526fbe.png",
     "static/media/PXL_20230309_234126790_Cropped.jpg": "/mattmoradoportfolio/static/media/PXL_20230309_234126790_Cropped.5356df49af5f5d997263.jpg",
     "static/media/ScreenshotStore.png": "/mattmoradoportfolio/static/media/ScreenshotStore.ade6f72c4943d7eeae5c.png",
     "static/media/ScreenshotMovieTicket.png": "/mattmoradoportfolio/static/media/ScreenshotMovieTicket.332ef9d6ff5eb6b6d3d2.png",
     "static/media/redux_logo.png": "/mattmoradoportfolio/static/media/redux_logo.1b4bb5fceb01b19da59d.png",
     "static/media/React-icon.png": "/mattmoradoportfolio/static/media/React-icon.81ed438b18e24116794d.png",
-    "static/media/ScreenshotVideoGame.png": "/mattmoradoportfolio/static/media/ScreenshotVideoGame.79c24b03c353a08d2d26.png",
     "static/media/Postgresql_elephant.png": "/mattmoradoportfolio/static/media/Postgresql_elephant.c8891cc79d21bc263a06.png",
     "static/media/1200px-Node.js_logo.png": "/mattmoradoportfolio/static/media/1200px-Node.js_logo.abfaef34ea49d0c7cd3c.png",
     "static/media/docker-large_v-trans.png": "/mattmoradoportfolio/static/media/docker-large_v-trans.fafe65848e8bda2c2be9.png",
@@ -17,11 +17,11 @@
     "static/media/bitwise_400x400.jpg": "/mattmoradoportfolio/static/media/bitwise_400x400.0ebb55454a885347edff.jpg",
     "index.html": "/mattmoradoportfolio/index.html",
     "main.6c85466d.css.map": "/mattmoradoportfolio/static/css/main.6c85466d.css.map",
-    "main.02816f07.js.map": "/mattmoradoportfolio/static/js/main.02816f07.js.map",
+    "main.1527b43e.js.map": "/mattmoradoportfolio/static/js/main.1527b43e.js.map",
     "787.9ee7316e.chunk.js.map": "/mattmoradoportfolio/static/js/787.9ee7316e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c85466d.css",
-    "static/js/main.02816f07.js"
+    "static/js/main.1527b43e.js"
   ]
 }
