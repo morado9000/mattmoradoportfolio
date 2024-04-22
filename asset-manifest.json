@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mattmoradoportfolio/static/css/main.6c85466d.css",
-    "main.js": "/mattmoradoportfolio/static/js/main.1527b43e.js",
+    "main.js": "/mattmoradoportfolio/static/js/main.11c1ccd3.js",
     "static/js/787.9ee7316e.chunk.js": "/mattmoradoportfolio/static/js/787.9ee7316e.chunk.js",
     "static/media/rubiosmaterialscreen.png": "/mattmoradoportfolio/static/media/rubiosmaterialscreen.ff99b4d7d8a949526fbe.png",
     "static/media/PXL_20230309_234126790_Cropped.jpg": "/mattmoradoportfolio/static/media/PXL_20230309_234126790_Cropped.5356df49af5f5d997263.jpg",
@@ -17,11 +17,11 @@
     "static/media/bitwise_400x400.jpg": "/mattmoradoportfolio/static/media/bitwise_400x400.0ebb55454a885347edff.jpg",
     "index.html": "/mattmoradoportfolio/index.html",
     "main.6c85466d.css.map": "/mattmoradoportfolio/static/css/main.6c85466d.css.map",
-    "main.1527b43e.js.map": "/mattmoradoportfolio/static/js/main.1527b43e.js.map",
+    "main.11c1ccd3.js.map": "/mattmoradoportfolio/static/js/main.11c1ccd3.js.map",
     "787.9ee7316e.chunk.js.map": "/mattmoradoportfolio/static/js/787.9ee7316e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c85466d.css",
-    "static/js/main.1527b43e.js"
+    "static/js/main.11c1ccd3.js"
   ]
 }
